@@ -8,6 +8,11 @@
   width: 100vw;
   background-color: lightgray;
   display: flex;
+  justify-content:space-evenly;
+  flex-direction: column-reverse;
+  align-items: center;
+  display: flex;
+  row-gap: 1vh;
 }
 
 .item {
